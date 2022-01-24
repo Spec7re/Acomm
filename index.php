@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>ACOMM</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   </head>
   </head>
@@ -39,5 +39,5 @@
   </body>
 </html>
 
-<script src="jquery.min.js"></script>
-<script src="script.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/script.js"></script>
